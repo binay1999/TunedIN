@@ -1,0 +1,4 @@
+redis
+flask
+flask-session
+elasticsearch==7.16.3

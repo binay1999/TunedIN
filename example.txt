@@ -1,0 +1,97 @@
+{
+   "_id":{
+      "$oid":"61d0075af57a29f76e8746e4"
+   },
+   "username":"binay1999",
+   "firstname":"Binay",
+   "lastname":"Sarmah",
+   "dob":"10/28/1999",
+   "contact":{
+      "email":"binay.dbr@gmail.com",
+      "number":"6000603689"
+   },
+   "skills":[
+      "python",
+      "javascript",
+      "oop",
+      "mongodb"
+   ],
+   "yojtu":"2018",
+   "yoc":"2022",
+   "dept":"CSE",
+   "course":"B.Tech.",
+   "currentsem":8,
+   "bio":"Python Developer, company name",
+   "residence":"Dibrugarh",
+   "hostel":"PMH",
+   "education":{
+      "class10":{
+         "marks":{
+            "cgpa":10,
+            "percentage":0
+         },
+         "nameofschool":"VKV",
+         "place":{
+            "city":"dibrugarh",
+            "district":"dibrugarh",
+            "state":"Assam"
+         },
+         "year":2015,
+         "subjects":[
+            "maths",
+            "science",
+            "english",
+            "hindi",
+            "soft skills"
+         ],
+         "board":"cbse"
+      },
+      "class12":{
+         "marks":{
+            "cgpa":0,
+            "percentage":90
+         },
+         "nameofschool":"VKV",
+         "place":{
+            "city":"dibrugarh",
+            "district":"dibrugarh",
+            "state":"Assam"
+         },
+         "year":2017,
+         "subjects":[
+            "chemistry",
+            "physics",
+            "mathematics",
+            "english"
+         ],
+         "board":"cbse"
+      }
+   },
+   "internships":{
+      "id1":{
+         "company":"Axisvation",
+         "title":"Python Developer",
+         "startdate":"23-04-2021",
+         "enddate":"23-07-2021",
+         "place":{
+            "city":"Mumbai",
+            "district":"Navi Mumbai",
+            "state":"Maharashtra"
+         },
+         "description":"Worked on.. under the lead of..using tech.. "
+      },
+      "id2":{
+         "company":"Sparks Foundation",
+         "title":"Web Developer",
+         "startdate":"23-01-2021",
+         "enddate":"23-03-2021",
+         "place":{
+            "city":"dibrugarh",
+            "district":"dibrugarh",
+            "state":"Assam"
+         },
+         "description":"Worked on.. under the lead of..using tech.. "
+      }
+   }
+}
+---------------------------------
