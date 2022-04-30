@@ -1,3 +1,7 @@
+# API for inhouse version of linkedin for Tezpur University.
+Design and implementation for user signing up , signing in, uploading resume , updating details, search , send / accept connection request .
+This is implemented using Flask and MongoDB.
+The folder named Tunedin_modified contains the same functionality but these are implemented in elasticsearch. I have used redis to store cached data and python logging library for learning purposes.
 # How to set up the environment for testing the code?
 System used: Windows 8.1, 4gb RAM, i3 core  
 Language : Python version 3.7.3  
